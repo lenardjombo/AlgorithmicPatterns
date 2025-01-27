@@ -25,7 +25,7 @@ This repository contains a series of exercises in the form of code implementatio
 To get started with the repository, clone it to your local machine:
 
   ```copy
-    git clone https://github.com/yourusername/AlgorithmicPatterns.git
+    git clone https://github.com/lenardjombo/AlgorithmicPatterns.git
 ```
 **Prerequisites**
 This repository is built using Go. To run the code, ensure that you have Go installed. You can download and install Go from the official Go website.
