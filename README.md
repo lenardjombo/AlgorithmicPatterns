@@ -12,7 +12,7 @@ A repository dedicated to exploring and solving algorithmic patterns to enhance 
 
 ## About
 
-This repository contains a series of exercises in the form of code implementations that generate various patterns such as triangles, pyramids, diamonds, and other creative shapes. By solving these problems, you'll develop a deeper understanding of core algorithmic concepts such as loops, recursion and nested structures, all while writing clean, efficient code in Go.
+This repository contains a series of exercises in the form of code implementations that generate various patterns such as triangles, pyramids, diamonds, and other creative shapes. By solving these problems, you'll develop a deeper understanding of core algorithmic concepts such as loops, recursion and nested structures, all while writing clean, efficient code.
 
 ### Key Goals:
 - Strengthen problem-solving skills
@@ -20,17 +20,21 @@ This repository contains a series of exercises in the form of code implementatio
 - Understand how different types of loops and control flow can be combined to create complex patterns
 - Develop the ability to craft custom algorithms for specific challenges
 
-## Getting Started
+### Getting Started
 
 To get started with the repository, clone it to your local machine:
 
-  ```copy
+  ```bash
     git clone https://github.com/lenardjombo/AlgorithmicPatterns.git
 ```
+
 **Prerequisites**
-To run the code, ensure that you have Go installed. You can download and install Go from the official Go website.
+To run the code, ensure that you have Go installed. 
+
+You can download and install Go from this link [Download](https://go.dev/doc/install)
 
 **Installation**
+
 1.Clone the repository
 ```bash
   git clone https://github.com/lenardjombo/AlgorithmicPatterns.git
@@ -43,13 +47,14 @@ To run the code, ensure that you have Go installed. You can download and install
 ```bash
     go run <filename>.go
 ```
-Usage
-Each pattern is implemented in separate Go files. For example:
-pyramid.go – Generates a pyramid pattern.
-Contributing
+### Usage
+Each pattern is implemented in separate Go files. **For example**:
+- **[Pyramid]()** - `pyramid.go` - Generates a pyramid pattern.
+
+### Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request. We welcome contributions that can improve the algorithmic patterns, add new ones, or optimize existing code. Please ensure your code follows best practices and is well-commented.
 
-Steps to Contribute:
+**Steps to Contribute:**
 - 1.Fork the repository
 - 2.Create a new branch (git checkout -b feature-branch)
 - 3.Commit your changes (git commit -am 'Add new pattern')
