@@ -49,7 +49,7 @@ You can download and install Go from this link [Download](https://go.dev/doc/ins
 ```
 ### Usage
 Each pattern is implemented in separate Go files. **For example**:
-- **[Pyramid]()** - `pyramid.go` - Generates a pyramid pattern.
+- **[Pyramid](https://github.com/lenardjombo/AlgorithmicPatterns/blob/main/Pyramid.go)** - `pyramid.go` - Generates a pyramid pattern.
 
 ### Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request. We welcome contributions that can improve the algorithmic patterns, add new ones, or optimize existing code. Please ensure your code follows best practices and is well-commented.
