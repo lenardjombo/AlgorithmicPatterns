@@ -1,6 +1,6 @@
 # AlgorithmicPatterns
 
-A repository dedicated to exploring and solving algorithmic patterns to enhance problem-solving skills. This collection of pattern generation exercises focuses on utilizing loops, conditionals and other fundamental programming constructs to create visually interesting and logically challenging patterns. The goal is to strengthen your understanding of algorithms while practicing Go programming.
+A repository dedicated to exploring and solving algorithmic patterns to enhance problem-solving skills. This collection of pattern generation exercises focuses on utilizing loops, conditionals and other fundamental programming constructs to create visually interesting and logically challenging patterns. The goal is to strengthen your understanding of algorithms.
 
 ## Table of Contents
 
@@ -12,11 +12,11 @@ A repository dedicated to exploring and solving algorithmic patterns to enhance 
 
 ## About
 
-This repository contains a series of exercises in the form of code implementations that generate various patterns such as triangles, pyramids, diamonds, and other creative shapes. By solving these problems, you'll develop a deeper understanding of core algorithmic concepts such as loops, recursion, and nested structures, all while writing clean, efficient code in Go.
+This repository contains a series of exercises in the form of code implementations that generate various patterns such as triangles, pyramids, diamonds, and other creative shapes. By solving these problems, you'll develop a deeper understanding of core algorithmic concepts such as loops, recursion and nested structures, all while writing clean, efficient code in Go.
 
 ### Key Goals:
 - Strengthen problem-solving skills
-- Practice Go programming and algorithm implementation
+- Practice programming and algorithm implementation
 - Understand how different types of loops and control flow can be combined to create complex patterns
 - Develop the ability to craft custom algorithms for specific challenges
 
@@ -28,12 +28,12 @@ To get started with the repository, clone it to your local machine:
     git clone https://github.com/lenardjombo/AlgorithmicPatterns.git
 ```
 **Prerequisites**
-This repository is built using Go. To run the code, ensure that you have Go installed. You can download and install Go from the official Go website.
+To run the code, ensure that you have Go installed. You can download and install Go from the official Go website.
 
 **Installation**
 1.Clone the repository
 ```bash
-  git clone https://github.com/yourusername/AlgorithmicPatterns.git
+  git clone https://github.com/lenardjombo/AlgorithmicPatterns.git
 ```
 2.Navigate to the project folder:
 ```bash
@@ -50,12 +50,13 @@ Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request. We welcome contributions that can improve the algorithmic patterns, add new ones, or optimize existing code. Please ensure your code follows best practices and is well-commented.
 
 Steps to Contribute:
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Commit your changes (git commit -am 'Add new pattern')
-Push to the branch (git push origin feature-branch)
-Open a pull request
-License
+- 1.Fork the repository
+- 2.Create a new branch (git checkout -b feature-branch)
+- 3.Commit your changes (git commit -am 'Add new pattern')
+- 4.Push to the branch (git push origin feature-branch)
+- 5.Open a pull request
+
+## License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 You can explore each Go file to study how the algorithms are structured, understand the loop logic, and modify them to create your own variations of the patterns.
