@@ -29,7 +29,7 @@ To get started with the repository, clone it to your local machine:
 ```
 
 **Prerequisites**
-To run the code, ensure that you have Go installed. 
+To run the code, ensure that you have set up any programming tool/language on your machine e.g Go
 
 You can download and install Go from this link [Download](https://go.dev/doc/install)
 
