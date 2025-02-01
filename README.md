@@ -53,6 +53,7 @@ Each pattern is implemented in separate Go files. **For example**:
 - **[Square](https://github.com/lenardjombo/AlgorithmicPatterns/blob/main/Square.java)** - `Square.go` - Generates a square pattern.
 - **[RightAngledTrianlge](https://github.com/lenardjombo/AlgorithmicPatterns/blob/main/rightAngledTriangle.go)** - `rightAngledTriangle.go` - Generates a rightAngledTriangle
 - **[ReversedRightAngledTriangle](https://github.com/lenardjombo/AlgorithmicPatterns/blob/main/rightAngledTriangle.go)** - `reversedRightAngledTriangle.go` - Generates a reversed right-angled triangle
+- **[ReversedPyramid](https://github.com/lenardjombo/AlgorithmicPatterns/blob/main/reversedPyramid.js)** - `Reversed Pyramid`
 
 ### Contributing
 If you'd like to contribute, feel free to fork the repository and submit a pull request.Contributions in any programming language are welcome!We welcome contributions that can improve the algorithmic patterns, add new ones, or optimize existing code. Please ensure your code follows best practices and is well-commented.
