@@ -1,6 +1,6 @@
 # AlgorithmicPatterns
 
-A repository dedicated to exploring and solving algorithmic patterns to enhance problem-solving skills. This collection of pattern generation exercises focuses on utilizing loops, conditionals and other fundamental programming constructs to create visually interesting and logically challenging patterns. The goal is to strengthen your understanding of algorithms.
+A repository dedicated to exploring and solving algorithmic patterns to enhance problem-solving skills. This collection of pattern generation exercises focuses on utilizing loops, conditionals and other fundamental programming constructs to create visually interesting and logically challenging patterns. The goal is to strengthen your understanding of algorithms
 
 ## Table of Contents
 
