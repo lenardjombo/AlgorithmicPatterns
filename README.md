@@ -67,9 +67,3 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 
 ## License
 This project is licensed under the MIT License – see the LICENSE file for details.
-
-You can explore each Go file to study how the algorithms are structured, understand the loop logic, and modify them to create your own variations of the patterns.
-```bash
-    
-You can copy and paste this into your `README.md` file, and it should work perfectly! Let me know if you need further adjustments.
-```
